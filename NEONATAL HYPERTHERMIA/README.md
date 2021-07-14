@@ -1,4 +1,4 @@
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0r9CJXilSMOUaCDoeLER2XiFceNxIs0ikdTXMydPYjE3So1ETRl1g22kW6kAWebZOfKk&usqp=CAU)
+![](https://neopededu.com/wp-content/uploads/2020/01/newborn-receiving-phototherapy-to-treat-jaundice.jpg)
 <h2>NEONATAL HYPERTHERMIA </h2>
 </br>
 <h4> THE DEVELOPMENT OF REAL TIME MONITORING SYSTEM TO PREVENT HYPERTHERMIA IN SEVERE CASES OF HYPERBILIRUBINEMIA </h4>
