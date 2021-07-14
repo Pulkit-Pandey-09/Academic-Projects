@@ -7,15 +7,12 @@ However, As a result , we started thinking about the very elementary Snow Crysta
 fundamental functioning of the very environment we live in, by means of condensed matter physics. While the core-objective remained the understanding of the fundamental physical
 processes controlling ice solidification. The practical Applicative Research perspective of Material sciences concept in our project involves the amalgamation of Fundamental Physics, Fundamental Chemistry,
 Mathematical Modeling as well as a peak of Meteorology. </br>
-
 This document encompasses the examination of ice crystallization from liquid water and
 from water vapor, focusing on the underlying physical processes that determine growth
 rates and structure formation. </br>
 </br>
 The major focus lies upon molecular attachment kinetics on faceted surfaces and large-
 scale diffusion processes, yielding a remarkably rich phenomenology of solidification
-</br>
-</br>
 behaviors under different conditions. Layer nucleation plays an especially important role,
 with nucleation rates determined primarily by step energies on faceted ice/water and ice/
 vapor interfaces. The measured step energies depend strongly on temperature and other
