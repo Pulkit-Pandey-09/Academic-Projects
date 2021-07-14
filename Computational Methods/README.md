@@ -1,5 +1,5 @@
 NEONATAL HYPERTHERMIA
-![https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGlefriO31UvuOrcjV_y-W0Yaafy1K0POCHw&usqp=CAU]
+![alt text](https://www.imago-images.com/bild/st/0109127797/s.jpg)
 THE DEVELOPMENT OF REAL TIME MONITORING SYSTEM TO PREVENT HYPERTHERMIA IN SEVERE CASES OF HYPERBILIRUBINEMIA
 
 Neonatal jaundice also known as hyperbilirubinemia is a phenomenon that occurs in 60% of all term new-borns. Severe cases of this may lead to chronic encephalopathy, kernicterus, neurologic deficits, and, in some cases, death. Intensive blue light phototherapy involves irradiation of a patient with high intensity light and is widely used for treatment of severe hyperbilirubinemia. As a result, Hyperthermia occurs in some neonates during intensive blue light phototherapy. Body temperature of a hypothetical neonate undergoing intensive blue light phototherapy is mathematically modelled to investigate parameters that cause hyperthermia. The objective of fabricating this project is to illuminate the concept of Computational Methods in solving the bio heat transfer equation to develop a real time monitoring system that may be used to prevent Hyperthermia in neonates using the developed model. This document presents the detailed analysis undertaken to analyse the change in transient temperature of human neonate undergoing
