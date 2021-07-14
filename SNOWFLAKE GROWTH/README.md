@@ -6,7 +6,7 @@ everywhere in the world, thanks to the Pandemic!  </br>
 However, As a result , we started thinking about the very elementary Snow Crystals and the Complex Science behind it. Therefore, the objective of choosing this concept became to gain the knowledge of
 fundamental functioning of the very environment we live in, by means of condensed matter physics. While the core-objective remained the understanding of the fundamental physical
 processes controlling ice solidification. The practical Applicative Research perspective of Material sciences concept in our project involves the amalgamation of Fundamental Physics, Fundamental Chemistry,
-Mathematical Modeling as well as a peak of Meteorology.
+Mathematical Modeling as well as a peak of Meteorology. </br>
 </br>
 This document encompasses the examination of ice crystallization from liquid water and
 from water vapor, focusing on the underlying physical processes that determine growth
