@@ -1,4 +1,4 @@
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJUSawnUYEpkMkIT8zyu-F5wrVe1KA3gdkqloZgnjBAItzmgkaOKBVIBi-9fgVjoG0VWg&usqp=CAU)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScaPI52VadWgG63SqmsWlayrKAUO30xANa0wus27XWM-xh37Olp1_Wzs-bJ9X2qwlRSB4&usqp=CAU)
 
 THE BRAIN Vs. THE EMOTIONS <br />
 The essence of Emotions always revolves around living beings, and majorly Humans.<br />
