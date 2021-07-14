@@ -1,7 +1,6 @@
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrdjuazzG-vKHLP2zfEk21hO5oK5_r49i4Xr3vHvg5b9qUFxJrCS2Rrgi0_4oS5DDRpt0&usqp=CAU)
 </br>
 <h3> MY BILLBOOK - BILL GENERATOR</h3>
-</br>
 
 In this era of advancement, we very acknowledge the importance of integration of
 hardware and programming. Today, more and more embedded hardware devices are reaching the
