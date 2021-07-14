@@ -1,4 +1,4 @@
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUILjJbpTvaZm4_wmWaggIdhFek8YanN7hnqzSf-vx1MKIm6I6qiy3G4B-wWzmi0KZk8Y&usqp=CAU)
+![](https://png.pngtree.com/png-clipart/20191124/ourlarge/pngtree-drone-icon-in-neon-style-png-image_2028893.jpg)
 <h3> INERTIAL MEASUREMENT UNIT </h3>
 </br>
 An unmanned aerial vehicle (UAV), commonly known as a drone, is an aerial system without
