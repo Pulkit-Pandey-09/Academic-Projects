@@ -1,7 +1,7 @@
 ![](https://neopededu.com/wp-content/uploads/2020/01/newborn-receiving-phototherapy-to-treat-jaundice.jpg)
 <h2>NEONATAL HYPERTHERMIA </h2>
 </br>
-<h4> THE DEVELOPMENT OF REAL TIME MONITORING SYSTEM TO PREVENT HYPERTHERMIA IN SEVERE CASES OF HYPERBILIRUBINEMIA </h4>
+<h4> THE DEVELOPMENT OF PROPOSED MODEL OF MONITORING SYSTEM TO PREVENT HYPERTHERMIA IN SEVERE CASES OF HYPERBILIRUBINEMIA </h4>
 </br>
 Neonatal jaundice also known as hyperbilirubinemia is a phenomenon that occurs in
 60% of all term new-borns. Severe cases of this may lead to chronic encephalopathy, kernicterus,
